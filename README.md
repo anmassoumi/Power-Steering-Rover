@@ -1,4 +1,4 @@
-# Power Steering Rover
+# RC Rover
 
 https://github.com/anmassoumi/PowerSteering-Rover/assets/161991714/53178fcf-ab4d-4aa9-8601-eecb60b71321
 
