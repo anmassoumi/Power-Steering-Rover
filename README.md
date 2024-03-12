@@ -1,5 +1,7 @@
 # RC Rover
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y6h2js12TWo?si=FA8iNa84b8ruQudM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 https://github.com/anmassoumi/PowerSteering-Rover/assets/161991714/53178fcf-ab4d-4aa9-8601-eecb60b71321
 
 
